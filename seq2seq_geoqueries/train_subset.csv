@@ -1,0 +1,20 @@
+where is c0,"( lambda $0 e ( loc:t c0 $0 ) )
+"
+where is m0,"( lambda $0 e ( loc:t m0 $0 ) )
+"
+where is c0,"( lambda $0 e ( loc:t c0 $0 ) )
+"
+where is c0,"( lambda $0 e ( loc:t c0 $0 ) )
+"
+where is s0,"( lambda $0 e ( loc:t s0 $0 ) )
+"
+peopl in c0,"( population:i c0 )
+"
+where is c0,"( lambda $0 e ( loc:t c0 $0 ) )
+"
+where is c0,"( lambda $0 e ( loc:t c0 $0 ) )
+"
+popul of c0,"( population:i c0 )
+"
+where is s0,"( lambda $0 e ( loc:t s0 $0 ) )
+"
